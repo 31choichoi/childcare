@@ -1,0 +1,8 @@
+{
+  "name": "화성시육아종합지원센터",
+  "description": "화성시육아종합지원센터 - 아이와 부모, 보육교직원 모두가 행복한 지역사회 보육환경 조성",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
